@@ -23,7 +23,7 @@ public class Main {
 			System.out.println("Your number in ascending order are " + num2 + "," + num1);
 		}
 		else {
-			System.out.println("Your number in ascending order are " + num1 + "," + num2);
+			System.out.println("Your number in ascending order are " + num1 + ", " + num2);
 		}
     
   }
