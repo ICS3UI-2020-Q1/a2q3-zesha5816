@@ -20,10 +20,10 @@ public class Main {
 		int num2 = input.nextInt();
 		//if the first number is bigger than the 2nd no it will rite it as in the ascending order
 		if (num1 > num2){
-			System.out.println("Your number in ascending order are " + num2 + ", " + num1);
+			System.out.println("Your numbers in ascending order are " + num2 + ", " + num1);
 		}
 		else {
-			System.out.println("Your number in ascending order are " + num1 + ", " + num2);
+			System.out.println("Your numbers in ascending order are " + num1 + ", " + num2);
 		}
     
   }
